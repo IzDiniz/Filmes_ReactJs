@@ -1,7 +1,7 @@
 function Contato() {
-    return ( 
-        <h1></h1>
-     );
+  return (
+    <div>contato</div>
+  )
 }
 
-export default Contato;
+export default Contato
